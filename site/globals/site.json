@@ -1,6 +1,6 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "Foone Autonomous Laser Tweetstorm",
+    "url": "https://foone-laser-tweetstorm.fission.app",
     "author": {
         "name": "Max Power",
         "email": "hello@maxpower.com",
@@ -14,9 +14,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "facebook": "https://www.facebook.com",
-        "twitter": "https://twitter.com/joe_dyer1",
-        "linkedin": "https://www.linkedin.com"
+        "twitter": "https://twitter.com/fissioncodes"
     },
     "address": {
         "street": "123 Fake Street",

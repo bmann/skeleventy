@@ -1,0 +1,3 @@
+ignore: []
+url: foone-laser-tweetstorm.fission.app
+build: ./dist
